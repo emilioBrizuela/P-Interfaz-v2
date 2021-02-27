@@ -1,0 +1,16 @@
+.paginador table{
+    width: 99%;
+}
+.paginador td{
+    width: 99%;
+    text-align: center;
+    line-height: 2em;
+}
+.iconoPaginador{
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: middle;
+}
+.paginador input{
+    height: 1.4em;
+}
